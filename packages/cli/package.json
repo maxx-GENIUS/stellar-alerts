@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@stellar-alerts/shared": "*",
-    "commander": "^13.1.0",
-    "chalk": "^5.4.1",
+    "commander": "^15.0.0",
+    "chalk": "^6.0.1",
     "ink": "^4.4.1",
     "ink-table": "^3.1.0",
     "react": "^18.3.1",
@@ -26,10 +26,10 @@
     "@ledgerhq/hw-transport-node-hid": "^6.29.0"
   },
   "devDependencies": {
-    "@types/node": "^26.1.1",
+    "@types/node": "^26.6.5",
     "@types/react": "^19.0.0",
-    "tsx": "^4.23.0",
-    "typescript": "^5.9.3",
-    "vitest": "^3.0.5"
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
   }
 }
