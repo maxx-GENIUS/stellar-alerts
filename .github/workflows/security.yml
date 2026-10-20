@@ -20,7 +20,7 @@ permissions:
 jobs:
   osv-scan:
     name: OSV Dependency Vulnerability Scan
-    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@v2.6.0
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@v2.7.0
     with:
       scan-args: |-
         --config=osv-scanner.toml
